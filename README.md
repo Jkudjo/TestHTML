@@ -1,2 +1,2 @@
 # codeacademy
-Teaching Kids My Kids HTML
+Teaching My Kids HTML
